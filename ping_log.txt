@@ -1,0 +1,59 @@
+
+--- Ping Test - 2025-04-02 10:36:15 ---
+google.com está online. Tempo de resposta: 0.02 ms
+8.8.8.8 está online. Tempo de resposta: 0.02 ms
+github.com está online. Tempo de resposta: 0.02 ms
+
+--- Ping Test - 2025-04-02 11:05:02 ---
+google.com está online.
+8.8.8.8 está online.
+github.com está online.
+sitequenaoexiste.com está online.
+
+--- Ping Test - 2025-04-02 11:06:02 ---
+google.com está online.
+8.8.8.8 está online.
+github.com está online.
+sitequenaoexiste.com está online.
+
+--- Ping Test - 2025-04-02 11:06:07 ---
+google.com está online.
+8.8.8.8 está online.
+github.com está online.
+sitequenaashuhejlasl.com está online.
+
+--- Ping Test - 2025-04-02 11:06:22 ---
+google.com está online.
+8.8.8.8 está online.
+github.com está online.
+sitequenaashuhejlasl.com está online.
+
+--- Ping Test - 2025-04-02 11:07:22 ---
+google.com está online.
+8.8.8.8 está online.
+github.com está online.
+sitequenaashuhejlasl.com está online.
+
+--- Ping Test - 2025-04-02 11:09:27 ---
+google.com está online.
+8.8.8.8 está online.
+github.com está online.
+sitequenaashuhejlasl.com está online.
+
+--- Ping Test - 2025-04-02 11:10:27 ---
+google.com está online.
+8.8.8.8 está online.
+github.com está online.
+sitequenaashuhejlasl.com está online.
+
+--- Ping Test - 2025-04-02 11:11:34 ---
+google.com está online.
+8.8.8.8 está online.
+github.com está online.
+sitequenaashuhejlasl.com está offline!
+
+--- Ping Test - 2025-04-02 11:12:39 ---
+google.com está online.
+8.8.8.8 está online.
+github.com está online.
+sitequenaashuhejlasl.com está offline!
