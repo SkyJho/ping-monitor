@@ -1,2 +1,4 @@
 iniciar o serviço pingtoolservices
 net start PingToolServices
+
+python -m uvicorn ping_tool_testes:app --host 0.0.0.0 --port 8080
