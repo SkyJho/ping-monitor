@@ -1,0 +1,2 @@
+iniciar o serviço pingtoolservices
+net start PingToolServices

@@ -1,0 +1,56 @@
+[2025-04-02 15:45:08] google.com - online (25.00ms)
+[2025-04-02 15:45:08] 8.8.8.8 - online (17.69ms)
+[2025-04-02 15:45:08] github.com - online (17.62ms)
+[2025-04-02 15:45:08] sitequenaashuhejlasl.com - online (0.00ms)
+[2025-04-02 15:46:21] google.com - online (18.45ms)
+[2025-04-02 15:46:21] 8.8.8.8 - online (19.94ms)
+[2025-04-02 15:46:21] github.com - online (26.94ms)
+[2025-04-02 15:46:21] sitequenaashuhejlasl.com - domínio não existe
+[2025-04-02 15:47:44] google.com - online (16.01ms)
+[2025-04-02 15:47:44] 8.8.8.8 - online (15.85ms)
+[2025-04-02 15:47:44] github.com - online (18.28ms)
+[2025-04-02 15:47:44] sitequenaashuhejlasl.com - domínio não existe
+[2025-04-02 15:48:44] google.com - online (22.20ms)
+[2025-04-02 15:48:44] 8.8.8.8 - online (20.03ms)
+[2025-04-02 15:48:45] github.com - online (26.66ms)
+[2025-04-02 15:48:45] sitequenaashuhejlasl.com - domínio não existe
+[2025-04-02 15:49:45] google.com - online (23.15ms)
+[2025-04-02 15:49:45] 8.8.8.8 - online (16.26ms)
+[2025-04-02 15:49:45] github.com - online (22.51ms)
+[2025-04-02 15:49:45] sitequenaashuhejlasl.com - domínio não existe
+[2025-04-02 15:50:45] google.com - online (16.84ms)
+[2025-04-02 15:50:45] 8.8.8.8 - online (16.77ms)
+[2025-04-02 15:50:45] github.com - online (18.28ms)
+[2025-04-02 15:50:45] sitequenaashuhejlasl.com - domínio não existe
+[2025-04-02 15:51:45] google.com - online (16.59ms)
+[2025-04-02 15:51:45] 8.8.8.8 - online (16.82ms)
+[2025-04-02 15:51:45] github.com - online (21.64ms)
+[2025-04-02 15:51:45] sitequenaashuhejlasl.com - domínio não existe
+[2025-04-02 15:52:45] google.com - online (16.19ms)
+[2025-04-02 15:52:45] 8.8.8.8 - online (16.67ms)
+[2025-04-02 15:52:45] github.com - online (18.54ms)
+[2025-04-02 15:52:45] sitequenaashuhejlasl.com - domínio não existe
+[2025-04-02 15:53:45] google.com - online (16.79ms)
+[2025-04-02 15:53:45] 8.8.8.8 - online (16.22ms)
+[2025-04-02 15:53:45] github.com - online (18.52ms)
+[2025-04-02 15:53:45] sitequenaashuhejlasl.com - domínio não existe
+[2025-04-02 15:54:45] google.com - online (22.73ms)
+[2025-04-02 15:54:45] 8.8.8.8 - online (16.40ms)
+[2025-04-02 15:54:45] github.com - online (19.16ms)
+[2025-04-02 15:54:45] sitequenaashuhejlasl.com - domínio não existe
+[2025-04-02 15:55:45] google.com - online (24.01ms)
+[2025-04-02 15:55:45] 8.8.8.8 - online (16.20ms)
+[2025-04-02 15:55:46] github.com - online (17.83ms)
+[2025-04-02 15:55:46] sitequenaashuhejlasl.com - domínio não existe
+[2025-04-02 15:56:46] google.com - online (23.79ms)
+[2025-04-02 15:56:46] 8.8.8.8 - online (16.01ms)
+[2025-04-02 15:56:46] github.com - online (18.51ms)
+[2025-04-02 15:56:46] sitequenaashuhejlasl.com - domínio não existe
+[2025-04-02 15:57:46] google.com - online (23.42ms)
+[2025-04-02 15:57:46] 8.8.8.8 - online (16.34ms)
+[2025-04-02 15:57:46] github.com - online (18.61ms)
+[2025-04-02 15:57:46] sitequenaashuhejlasl.com - domínio não existe
+[2025-04-02 15:58:46] google.com - online (23.15ms)
+[2025-04-02 15:58:46] 8.8.8.8 - online (16.38ms)
+[2025-04-02 15:58:46] github.com - online (18.85ms)
+[2025-04-02 15:58:46] sitequenaashuhejlasl.com - domínio não existe

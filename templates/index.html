@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Monitor de Sites</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <h1>Monitor de Sites</h1>
+    
+    <input type="text" id="urlInput" placeholder="Digite a URL do site">
+    <button onclick="adicionarSite()">Adicionar</button>
+
+    <h2>Sites Monitorados</h2>
+    <ul id="listaSites"></ul>
+
+    <script src="/static/js/script.js" defer></script>
+    <h2>Status dos Sites Monitorados</h2>
+<table id="statusTabela">
+    <tr>
+        <th>Site</th>
+        <th>Status</th>
+        <th>Caiu em</th>
+        <th>Voltou em</th>
+    </tr>
+</table>
+
+<script src="/static/js/script.js"></script>
+
+</body>
+</html>
